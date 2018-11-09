@@ -1,0 +1,12 @@
+11
+Hopper 2003 555 Kangaroo
+Kitty-1 2009 44 Cat
+Spotty 2005 333 Dog
+Johnny 2008 111 Cat
+Danny 2015 433 Dog
+Striper 2011 432 Skunk
+Edward 1995 630 Horse
+Casper 1998 88 Snake
+Bootsy 2005 987 Horse
+Ryanne 2014 21 Fish
+Jonny 2015 1500 Monkey
